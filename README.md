@@ -1,5 +1,8 @@
 # CheckList-of-ML
+
 In this repository, I will try to walktrough the basic Machine Learning Problems like(I got this idea form a Instagram Page named [machinelearning](https://www.instagram.com/machinelearning/)):
+
+![](src/images/r_logo.png)
 
 Classification
 ---
