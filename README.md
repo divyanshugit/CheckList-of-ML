@@ -4,18 +4,19 @@ In this repository, I will try to walktrough the basic Machine Learning Problems
 
 ![](src/images/r_logo.png)
 
-Classification
+# Three Techniques:
+Classification:
 ---
 - Email Spam Filter
 - Sentment Analysis
-- Object Detection 
+- Object Detection
 
-Regression
+Regression:
 ----
 - Box office prediction
 - Housing Price Prediction
 
-Clustering
+Clustering:
 ---
 - Image Segmentation
 - Social Network Analysis
